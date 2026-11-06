@@ -1,0 +1,17 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "petzen",
+      "runtimeExecutable": "npx",
+      "runtimeArgs": ["-y", "http-server", ".", "-p", "5500", "-c-1"],
+      "port": 5500
+    },
+    {
+      "name": "recanto",
+      "runtimeExecutable": "npx",
+      "runtimeArgs": ["-y", "http-server", "C:/Users/Hz/Desktop/RecantoPet", "-p", "5501", "-c-1"],
+      "port": 5501
+    }
+  ]
+}

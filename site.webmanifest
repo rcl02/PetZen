@@ -1,0 +1,9 @@
+{
+  "name": "Pet Zen Jundiaí – Banho e Tosa",
+  "short_name": "Pet Zen",
+  "start_url": "/",
+  "display": "browser",
+  "background_color": "#ffffff",
+  "theme_color": "#3CC4C8",
+  "icons": [{ "src": "/assets/img/icone-192.png", "sizes": "192x192", "type": "image/png" }]
+}
