@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://petzen.pages.dev/sitemap.xml
+Sitemap: https://petzen-6dw.pages.dev/sitemap.xml

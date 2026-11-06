@@ -1,7 +1,7 @@
 # Site Pet Zen Jundiaí
 
 Landing page estática (HTML + CSS + JS puro) que leva o visitante a agendar pelo WhatsApp (`bit.ly/petzenjundiai`).
-Endereço final: https://petzen.pages.dev/
+Endereço final: https://petzen-6dw.pages.dev/
 
 ## Arquivos
 
